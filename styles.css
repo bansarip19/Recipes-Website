@@ -1,0 +1,19 @@
+
+.recipe-img{
+    width:400px;
+    height:400px;
+}
+ul{
+    list-style-type: none;
+    font-size:30px;
+}
+.header{
+    background-color: #DB2B39;
+}
+body{
+    background-color: #EBF2FA;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
